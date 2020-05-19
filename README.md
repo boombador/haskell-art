@@ -2,5 +2,4 @@
 
 ![](images/example_sketch/latest.png)
 
-Mostly copied from a tutorial I can't seem to find again. I wrote this a while ago so I don't
-remember what command I used to run it.
+Based on a [tutorial](https://www.kovach.me/posts/2018-03-07-generating-art.html) by [Ben Kovach](https://www.instagram.com/bendotk/). I didn't change much aside from converting the quadrilaterals to triangles.
